@@ -22,3 +22,10 @@ public class ElectricBill {
         System.out.println("Total Bill : " + bill);
     }
 }
+
+
+OUTPUT
+CHENNAI ELECTRICITY LTD, CHENNAI
+Units Consumed : 123
+Total Bill : 615
+
